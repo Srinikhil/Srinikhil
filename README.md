@@ -10,7 +10,7 @@
 🧠 **Who Am I?**
 > A data-driven dreamer with a mind wired for algorithms and a heart rooted in impact.
 
-I’m currently a Computer Science Master's student at **University of Central Florida**, blending the power of **AI**, **ML**, and **Data Analytics** to build scalable, real-world solutions. From developing a BioBERT-GPT hybrid chatbot for healthcare to crafting Power BI dashboards that actually *tell stories*, my goal is to solve meaningful problems — with precision and purpose.
+I’m graduated from a Computer Science Master's student at **University of Central Florida**, utilizing the power of **AI**, **ML**, and **Data Analytics** to build scalable, real-world solutions. From developing a BioBERT-GPT hybrid chatbot for healthcare to crafting Power BI dashboards that actually *tell stories*, my goal is to solve meaningful problems — with precision and purpose.
 
 ---
 
