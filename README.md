@@ -29,6 +29,19 @@ I’m currently a Computer Science Master's student at **University of Central F
 
 ---
 
+🎓 **Education**
+
+- 🏫 **Master of Science (M.Sc.) in Computer Science**  
+  *University of Central Florida, Orlando, FL*  
+  *Jan 2024 – May 2025 | GPA: 3.85/4.0*  
+  Relevant Coursework: Machine Learning, NLP, Deep Learning, Big Data, Cloud Computing, Applied AI
+
+- 🎓 **Bachelor of Technology (B.Tech) in Computer Science Engineering**  
+  *VNR Vignana Jyothi Institute of Engineering and Technology, Hyderabad, India*  
+  *Jul 2017 – Apr 2021*
+
+---
+
 🚀 **Featured Projects**
 | Project | Tech Stack | Summary |
 |--------|-------------|---------|
