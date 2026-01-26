@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Srinikhil Durisetti</h1>
-<h3 align="center">AI/ML Engineer | Data Analyst | Problem Solver</h3>
+<h3 align="center">AI/ML Engineer | Software Engineer | Problem Solver</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=srinikhildurisetti&label=Profile%20views&color=0e75b6&style=flat" alt="srinikhildurisetti" />
@@ -8,35 +8,31 @@
 ---
 
 🧠 **Who Am I?**
-> A data-driven dreamer with a mind wired for algorithms and a heart rooted in impact.
+> AI/ML Engineer and Software Engineer building NLP systems, ML pipelines, and cloud-deployed AI applications.
 
-I’m graduated from a Computer Science Master's student at **University of Central Florida**, utilizing the power of **AI**, **ML**, and **Data Analytics** to build scalable, real-world solutions. From developing a BioBERT-GPT hybrid chatbot for healthcare to crafting Power BI dashboards that actually *tell stories*, my goal is to solve meaningful problems — with precision and purpose.
+Recent Master’s graduate in Computer Science from the University of Central Florida with hands-on experience building LLM-based systems, deep learning models, and scalable backend services. I have developed projects such as a BioBERT-GPT hybrid healthcare chatbot and ML-driven applications deployed on cloud infrastructure, focusing on building reliable, production-oriented AI systems that solve real-world problems.
 
 ---
 
 📍 **What I Do Best**
 
-### 🔬 AI / ML Engineer
-- 🧠 Built NLP-powered Q&A systems with **LangChain**, **Llama**, and **FAISS**
-- 🩺 Trained **CNN models** to diagnose skin diseases with 85%+ accuracy
-- 🚑 Reduced ER wait times using predictive analytics & **XGBoost**
-- ☁️ Deployed scalable ML systems on **Kubernetes**, **AWS**, and **Kafka**
-
-### 📊 Data Analyst
-- 📈 Processed & visualized 2M+ records for business impact using **Power BI**, **SQL**, and **Apache Spark**
-- 💡 Built sales dashboards and churn prediction models to inform CX decisions
-- 📉 Used **Google Analytics** and behavioral clustering to lift UX satisfaction
+### AI / ML Engineer & Software Engineer
+- Built NLP-powered Q&A and RAG systems using **LangChain**, **FAISS**, and **Llama** for document retrieval and knowledge search
+- Developed deep learning models including **CNN-based medical imaging classifiers** with 85%+ accuracy using transfer learning
+- Designed and trained predictive models using **XGBoost** and **Python** for real-world decision support systems
+- Built and deployed ML services and APIs using **Docker, Kubernetes, AWS,** and **Kafka** for scalable and production-ready AI applications
+- Implemented end-to-end ML pipelines including data ingestion, preprocessing, model training, and inference workflows
 
 ---
 
 🎓 **Education**
 
-- 🏫 **Master of Science (M.Sc.) in Computer Science**  
+- **Master of Science (M.Sc.) in Computer Science**  
   *University of Central Florida, Orlando, FL*  
   *Jan 2024 – May 2025 | GPA: 3.85/4.0*  
   Relevant Coursework: Machine Learning, NLP, Deep Learning, Big Data, Cloud Computing, Applied AI
 
-- 🎓 **Bachelor of Technology (B.Tech) in Computer Science Engineering**  
+- **Bachelor of Technology (B.Tech) in Computer Science Engineering**  
   *VNR Vignana Jyothi Institute of Engineering and Technology, Hyderabad, India*  
   *Jul 2017 – Apr 2021*
 
